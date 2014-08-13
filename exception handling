@@ -1,5 +1,5 @@
 /*Television Information Processing Using Exceptional Handling Mechanism*/
-/*		S-121004273		Batch-D			SE-73		*/
+
 #include<iostream>
 #include<string.h>
 using namespace std;
